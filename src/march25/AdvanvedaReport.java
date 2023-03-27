@@ -21,7 +21,7 @@ public class AdvanvedaReport
 	{
 	report = new ExtentReports("./ExtentReports/Demo.html");
 
-}
+} 
 @BeforeMethod
 public void setup()
 {
